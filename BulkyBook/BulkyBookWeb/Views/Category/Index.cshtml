@@ -1,0 +1,57 @@
+﻿@using BulkyBookRepo.Model
+@model IEnumerable<Category>
+@{
+    ViewData["Title"] = "Index";
+}
+<partial name="Notification"/>
+<h1>Index Category</h1>
+
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th>
+                Category Name 
+            </th>
+
+            <th>
+                Display order 
+            </th>
+            <th>
+                Edit data
+            </th>
+            <th>
+                Delete
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+        <tr>
+            <td>
+                @obj.Name
+            </td>
+            <td>
+                @obj.DisplayOrder
+            </td>
+                <th>
+                    <div class="form-group">
+                        <a asp-controller="Category" asp-action="Update" asp-route-id="@obj.Id" type="button" class="btn btn-primary">Update</a>
+                    </div>
+                </th>
+                <th>
+                    <a asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id" type="button" class="btn btn-primary">Delete</a>
+                </th>
+        </tr> 
+        }
+       
+    </tbody>
+  
+</table>
+<div class="form-group">
+    <a asp-controller="Category" asp-action="Create" type="button" class="btn btn-primary" >Create</a>
+</div>
+
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+

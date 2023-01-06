@@ -1,0 +1,14 @@
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\bin\Debug\net6.0\BulkyBookRepo.deps.json
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\bin\Debug\net6.0\BulkyBookRepo.runtimeconfig.json
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\bin\Debug\net6.0\BulkyBookRepo.dll
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\bin\Debug\net6.0\BulkyBookRepo.pdb
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\BulkyBookRepo.csproj.AssemblyReference.cache
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\BulkyBookRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\BulkyBookRepo.AssemblyInfoInputs.cache
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\BulkyBookRepo.AssemblyInfo.cs
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\BulkyBookRepo.csproj.CoreCompileInputs.cache
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\BulkyBookRepo.dll
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\refint\BulkyBookRepo.dll
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\BulkyBookRepo.pdb
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\BulkyBookRepo.genruntimeconfig.cache
+C:\Users\manish.upreti\OneDrive\.net core\BulkyBook\BulkyBookRepo\obj\Debug\net6.0\ref\BulkyBookRepo.dll
